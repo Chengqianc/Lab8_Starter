@@ -1,4 +1,7 @@
 # Lab 8 - Starter
+
+Name: Cheng Qian
+
 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
 
     Ans: Within a Github action that runs whenever code is pushed. Having it as part of the pipeline saves developers time and effort and it also ensures consistent testing throughout the development process.
